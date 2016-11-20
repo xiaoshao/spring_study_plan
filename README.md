@@ -13,15 +13,15 @@
 10. Spring Social：一组工具包，一组连接社交服务API，如Twitter、Facebook、LinkedIn、GitHub等，有几十个。
 11. Spring AMQP：消息队列操作的工具包，主要是封装了RabbitMQ的操作。
 12. Spring HATEOAS：是一个用于支持实现超文本驱动的 REST Web 服务的开发库。
-13. Spring Mobile：是Spring MVC的扩展，用来简化手机上的Web应用开发。                                         x
-14. Spring for Android：是Spring框架的一个扩展，其主要目的在乎简化Android本地应用的开发，提供RestTemplate来访问Rest服务。  x
+13. ~~Spring Mobile：是Spring MVC的扩展，用来简化手机上的Web应用开发。~~ 
+14. ~~Spring for Android：是Spring框架的一个扩展，其主要目的在乎简化Android本地应用的开发，提供RestTemplate来访问Rest服务。~~
 15. Spring Web Flow：目标是成为管理Web应用页面流程的最佳方案，将页面跳转流程单独管理，并可配置。
 16. Spring LDAP：是一个用于操作LDAP的Java工具包，基于Spring的JdbcTemplate模式，简化LDAP访问。
 17. Spring Session：session管理的开发工具包，让你可以把session保存到redis等，进行集群化session管理。
 18. Spring Web Services：是基于Spring的Web服务框架，提供SOAP服务开发，允许通过多种方式创建Web服务。
 19. Spring Shell：提供交互式的Shell可让你使用简单的基于Spring的编程模型来开发命令，比如Spring Roo命令。
 20. Spring Roo：是一种Spring开发的辅助工具，使用命令行操作来生成自动化项目，操作非常类似于Rails。
-21. Spring Scala：为Scala语言编程提供的spring框架的封装（新的编程语言，Java平台的Scala于2003年底/2004年初发布）。   x
+21. ~~Spring Scala：为Scala语言编程提供的spring框架的封装（新的编程语言，Java平台的Scala于2003年底/2004年初发布）。~~
 22. Spring BlazeDS Integration：一个开发RIA工具包，可以集成Adobe Flex、BlazeDS、Spring以及Java技术创建RIA。   
 23. Spring Loaded：用于实现java程序和web应用的热部署的开源工具。
 24. Spring REST Shell：可以调用Rest服务的命令行工具，敲命令行操作Rest服务。
