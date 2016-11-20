@@ -1,5 +1,6 @@
 
-spring 顶级项目：
+# spring 顶级项目：
+----
 1. Spring IO platform:用于系统部署，是可集成的，构建现代化应用的版本平台，具体来说当你使用maven dependency引入spring jar包时它就在工作了。
 2. Spring Boot:旨在简化创建产品级的 Spring 应用和服务，简化了配置文件，使用嵌入式web服务器，含有诸多开箱即用微服务功能，可以和spring cloud联合部署。
 3. Spring Framework:即通常所说的spring 框架，是一个开源的Java/Java EE全功能栈应用程序框架，其它spring项目如spring boot也依赖于此框架。
@@ -25,8 +26,8 @@ spring 顶级项目：
 23. Spring Loaded：用于实现java程序和web应用的热部署的开源工具。
 24. Spring REST Shell：可以调用Rest服务的命令行工具，敲命令行操作Rest服务。
 
-目前来说spring主要集中于spring boot（用于开发微服务）和spring cloud相关框架的开发，spring cloud子项目包括：
-
+# Spring 微服务相关
+---
 25. Spring Cloud Config：配置管理开发工具包，可以让你把配置放到远程服务器，目前支持本地存储、Git以及Subversion。
 26. Spring Cloud Bus：事件、消息总线，用于在集群（例如，配置变化事件）中传播状态变化，可与Spring Cloud Config联合实现热部署。
 27. Spring Cloud Netflix：针对多种Netflix组件提供的开发工具包，其中包括Eureka、Hystrix、Zuul、Archaius等。
